@@ -10,28 +10,24 @@
 
 ## 🙋‍♂️ About Me
 
-<table align="center">
-  <tr>
-    <td width="30%">
-      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Work-culture2.gif" width="100%" />
-    </td>
-    <td width="70%">
-      <h3>Hello! I'm Ali Dari 👋</h3>
-      <p>I'm a passionate <b>Full Stack Developer</b> focused on building high-performance web applications and exploring modern cloud architectures. I love solving complex problems and turning ideas into impactful digital products.</p>
-      <ul>
-        <li>🏙️ Based in <b>Turkey 🇹🇷</b></li>
-        <li>🔭 Currently working on <b>Advanced Web Platforms</b></li>
-        <li>🌱 Learning <b>Kubernetes & Serverless Computing</b></li>
-        <li>💬 Ask me about <b>React, Python, or Web Architecture</b></li>
-        <li>⚡ Fun fact: <b>I write code that machines understand, and documentation that humans love.</b></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Developer Animation" width="120" />
+  <h3>Hello! I'm Ali Dari 👋</h3>
+  <p align="center">
+    I'm a passionate <b>Full Stack Developer</b> focused on building high-performance web applications and exploring modern cloud architectures. I love solving complex problems and turning ideas into impactful digital products.
+  </p>
+  
+  <p align="center">
+    🏙️ Based in <b>Turkey 🇹🇷</b> | 🔭 Currently working on <b>Advanced Web Platforms</b><br/>
+    🌱 Learning <b>Kubernetes & Serverless</b> | 💬 Ask me about <b>React, Python, or Architecture</b>
+  </p>
+  
+  <p>⚡ Fun fact: <b>I write code that machines understand, and documentation that humans love.</b></p>
+</div>
 
 ---
 
-## �️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,react,nextjs,vue,nodejs,express,django,fastapi,docker,git,postgres,mongodb,redis,aws,githubactions,tailwind,css,html,linux,figma,postman" />
@@ -42,16 +38,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats-alpha.vercel.app/api?username=Alidari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Alidari&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-      </td>
-    </tr>
-  </table>
+  <img height="180em" src="https://github-readme-stats-alpha.vercel.app/api?username=Alidari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Alidari&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
@@ -64,7 +52,7 @@
 
 ---
 
-## � Activity Overview
+## 📅 Activity Overview
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alidari&theme=tokyonight&hide_border=true&area=true&bg_color=16161e&color=7aa2f7" width="100%" />
