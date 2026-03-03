@@ -13,7 +13,7 @@
 <table align="center">
   <tr>
     <td width="30%">
-      <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/assets/developer.gif?raw=true" width="100%" />
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Work-culture2.gif" width="100%" />
     </td>
     <td width="70%">
       <h3>Hello! I'm Ali Dari 👋</h3>
